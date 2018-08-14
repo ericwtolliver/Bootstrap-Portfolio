@@ -1,0 +1,19 @@
+
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14;
+  font-weight: 600;
+  line-height: 2;
+  font-family: 'Hanalei Fill', cursive;
+} 
+
+.thought1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.thought2{
+  font-size: 24px;
+}
+.thought3{
+  font-style: italic;
+}
